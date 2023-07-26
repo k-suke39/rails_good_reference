@@ -10,3 +10,9 @@
 ### DB
 
 - [【初心者向け】丁寧すぎる Rails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)
+
+### Hotwire
+
+- [【Rails7】Ajax リクエスト時に CSRF token を含める（おそらく）公式のやり方](https://qiita.com/gnattali/items/c1012d4b8f6ab7f9a2a0)
+- []()
+- []()
