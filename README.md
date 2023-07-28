@@ -21,3 +21,5 @@
 
 - [新卒エンジニアに捧げる！ 新人でも貢献できるコードレビューの方法！](https://qiita.com/miketa_webprgr/items/02cd5bf43d6f611cf9d8)
 - [ソースコードを読むための技術(チートシート)](https://qiita.com/zizynonno/items/3a14fe6cbf52451a366c)
+- [プログラミング勉強を加速させる 7 つの習慣](https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd)
+- [1 分でも早く仕事を終わらせるために VSCode にできること](https://qiita.com/EaE/items/4ca1b35396eba682a86f)
