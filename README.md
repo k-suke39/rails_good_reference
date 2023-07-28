@@ -17,9 +17,18 @@
 - []()
 - []()
 
+### Debug
+
+- [Pry 上で Rails アプリのコードを読むために使える知識まとめ](https://qiita.com/gaaamii/items/e042f40eff838d1d2473)
+
+### JavaScript
+
+-[Node.js とはなにか？なぜみんな使っているのか？](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
+
 ### Tips
 
 - [新卒エンジニアに捧げる！ 新人でも貢献できるコードレビューの方法！](https://qiita.com/miketa_webprgr/items/02cd5bf43d6f611cf9d8)
 - [ソースコードを読むための技術(チートシート)](https://qiita.com/zizynonno/items/3a14fe6cbf52451a366c)
 - [プログラミング勉強を加速させる 7 つの習慣](https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd)
 - [1 分でも早く仕事を終わらせるために VSCode にできること](https://qiita.com/EaE/items/4ca1b35396eba682a86f)
+- [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
