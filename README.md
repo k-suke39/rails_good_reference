@@ -25,6 +25,10 @@
 
 - [Node.js とはなにか？なぜみんな使っているのか？](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
 
+### Git
+
+- [開発を爆速化！GitHub CLI で覚えるべきコマンド 5 選](https://zenn.dev/fusic/articles/336c5192d2f162)
+
 ### Tips
 
 - [新卒エンジニアに捧げる！ 新人でも貢献できるコードレビューの方法！](https://qiita.com/miketa_webprgr/items/02cd5bf43d6f611cf9d8)
