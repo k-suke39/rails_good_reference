@@ -16,3 +16,7 @@
 - [【Rails7】Ajax リクエスト時に CSRF token を含める（おそらく）公式のやり方](https://qiita.com/gnattali/items/c1012d4b8f6ab7f9a2a0)
 - []()
 - []()
+
+### Tips
+
+- [新卒エンジニアに捧げる！ 新人でも貢献できるコードレビューの方法！](https://qiita.com/miketa_webprgr/items/02cd5bf43d6f611cf9d8)
