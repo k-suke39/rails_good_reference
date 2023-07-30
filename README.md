@@ -8,6 +8,7 @@
 - [RUNTEQ の講師をやってみてわかった初学者にありがちなパターン 20 選（後編）](https://qiita.com/DaichiSaito/items/cd66115569b0a75f1bfa)
 - [[初心者向け]Ruby on Rails について徹底解説してみた](https://qiita.com/renesisu727/items/a21c7f5d1604700b7111)
 - [未経験から Ruby on Rails を学んで仕事につなげるまでの 1000 時間メニュー](https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a)
+- [Rails の練習帳](https://zenn.dev/igaiga/books/rails-practice-note/viewer/preface)
 
 ### DB
 
