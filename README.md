@@ -38,3 +38,7 @@
 - [プログラミング勉強を加速させる 7 つの習慣](https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd)
 - [1 分でも早く仕事を終わらせるために VSCode にできること](https://qiita.com/EaE/items/4ca1b35396eba682a86f)
 - [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
+
+### 個人開発
+
+- [読みたくなる README を書くためのコツ](https://zenn.dev/bloomer/articles/3f73f7d02e5a63)
