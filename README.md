@@ -8,6 +8,7 @@
 - [RUNTEQ の講師をやってみてわかった初学者にありがちなパターン 20 選（後編）](https://qiita.com/DaichiSaito/items/cd66115569b0a75f1bfa)
 - [[初心者向け]Ruby on Rails について徹底解説してみた](https://qiita.com/renesisu727/items/a21c7f5d1604700b7111)
 - [未経験から Ruby on Rails を学んで仕事につなげるまでの 1000 時間メニュー](https://qiita.com/saboyutaka/items/1a8c40e105e93ac6856a)
+- [Rails の練習帳](https://zenn.dev/igaiga/books/rails-practice-note/viewer/preface)
 
 ### DB
 
@@ -38,3 +39,7 @@
 - [プログラミング勉強を加速させる 7 つの習慣](https://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd)
 - [1 分でも早く仕事を終わらせるために VSCode にできること](https://qiita.com/EaE/items/4ca1b35396eba682a86f)
 - [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
+
+### 個人開発
+
+- [読みたくなる README を書くためのコツ](https://zenn.dev/bloomer/articles/3f73f7d02e5a63)
