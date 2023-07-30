@@ -6,6 +6,7 @@
 
 - [RUNTEQ の講師をやってみてわかった初学者にありがちなパターン 20 選（前編）](https://qiita.com/DaichiSaito/items/52448ebfcb0db768dcf3)
 - [RUNTEQ の講師をやってみてわかった初学者にありがちなパターン 20 選（後編）](https://qiita.com/DaichiSaito/items/cd66115569b0a75f1bfa)
+- [[初心者向け]Ruby on Rails について徹底解説してみた](https://qiita.com/renesisu727/items/a21c7f5d1604700b7111)
 
 ### DB
 
