@@ -31,6 +31,7 @@
 ### DB
 
 - [4 ステップで作成する、DB 論理設計の手順とチェックポイントまとめ](https://qiita.com/nishina555/items/a79ece1b54faf7240fac)
+- [SQL 記述者全員が理解すべき SELECT 文の論理的な処理順序のお話](https://qiita.com/k_0120/items/a27ea1fc3b9bddc77fa1)
 
 ### Git
 
