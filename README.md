@@ -28,6 +28,10 @@
 
 - [Node.js とはなにか？なぜみんな使っているのか？](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
 
+### DB
+
+- [4 ステップで作成する、DB 論理設計の手順とチェックポイントまとめ](https://qiita.com/nishina555/items/a79ece1b54faf7240fac)
+
 ### Git
 
 - [開発を爆速化！GitHub CLI で覚えるべきコマンド 5 選](https://zenn.dev/fusic/articles/336c5192d2f162)
